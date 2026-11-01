@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Abdulrahman Al-Fadhel</title>
+  <desc id="desc">Animated dark technology banner with blue and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset=".55" stop-color="#101B35"/>
+      <stop offset="1" stop-color="#17102B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#8AB4F8" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="65" r="125" fill="#2563EB" opacity=".13">
+    <animate attributeName="r" values="115;145;115" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="245" r="115" fill="#9333EA" opacity=".12">
+    <animate attributeName="r" values="105;130;105" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M0 248 C250 205 410 290 650 235 S1000 205 1200 245" fill="none" stroke="url(#line)" stroke-width="2" opacity=".8">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 248 C250 205 410 290 650 235 S1000 205 1200 245;M0 230 C250 275 410 195 650 250 S1000 275 1200 225;M0 248 C250 205 410 290 650 235 S1000 205 1200 245"/>
+  </path>
+  <g opacity=".8" fill="#38BDF8" filter="url(#glow)">
+    <circle cx="930" cy="75" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="145" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="220" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="78" fill="#7DD3FC" font-size="17" letter-spacing="5">SOFTWARE / RESEARCH / INNOVATION</text>
+    <text x="70" y="155" fill="#F8FAFC" font-size="55" font-weight="700">Abdulrahman Al-Fadhel</text>
+    <text x="74" y="202" fill="#C4B5FD" font-size="23">Software Engineer · Developer · Technology Researcher</text>
+    <text x="74" y="244" fill="#CBD5E1" font-size="19">Building practical digital solutions that make a difference.</text>
+  </g>
+  <rect x="70" y="270" width="1060" height="2" rx="1" fill="#334155"/>
+  <rect x="70" y="270" width="180" height="2" rx="1" fill="#38BDF8">
+    <animate attributeName="x" values="70;950;70" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
