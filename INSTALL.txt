@@ -1,0 +1,28 @@
+# GitHub Profile Package — abaalfadhel
+
+This package contains:
+- `README.md` — bilingual GitHub profile page.
+- `assets/header.svg` — custom animated header graphic.
+- `.github/workflows/snake.yml` — generates a contribution-snake animation daily.
+
+## Install from a phone
+
+1. Open your profile repository: `https://github.com/abaalfadhel/abaalfadhel`.
+2. Upload/replace `README.md` at the repository root.
+3. Upload the `assets` folder and its `header.svg` file. Keep the folder name exactly `assets`.
+4. Upload `.github/workflows/snake.yml`, preserving the folder structure.
+5. Open **Settings → Actions → General → Workflow permissions**.
+6. Select **Read and write permissions**, then save.
+7. Open the **Actions** tab, select **Generate contribution snake**, and press **Run workflow**.
+8. When it completes, a branch named `output` should contain the generated SVG files. Refresh your profile.
+
+If the default branch is not `main`, edit the `push.branches` value in the workflow to match your repository's default branch.
+
+## Notes
+
+- The profile README repository name must exactly match the username: `abaalfadhel`.
+- The snake animation appears only after the workflow succeeds and publishes the `output` branch.
+- Stats and typing cards use third-party image services; they may occasionally be unavailable or rate-limited.
+- GitHub README does not run JavaScript. Use images such as GIF or animated SVG for motion.
+- The technologies displayed are limited to those currently evidenced by the public profile; add more only when you actively use them.
+- Review all content before publishing. Do not add tokens, passwords, private keys, or other secrets.

@@ -1,113 +1,121 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=190&section=header&text=abaalfadhel&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Developer%20%7C%20Technology%20Researcher&descAlignY=58&descSize=15"
-    alt="abaalfadhel — Software Engineer, Developer and Technology Researcher"
-    width="100%"
-  />
+<div align="center">
+
+<img src="./assets/header.svg" width="100%" alt="Abdulrahman Al-Fadhel — Software Engineer and Technology Researcher" />
+
+<a href="https://github.com/abaalfadhel">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Developer+%26+Technology+Researcher;Building+Practical+Digital+Solutions;مهندس+برمجيات+%7C+مطور+%7C+باحث+تقني" alt="Animated introduction" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Engineering%20%26%20Innovation-0f172a?style=for-the-badge&labelColor=111827" alt="Focus" />
+  <img src="https://img.shields.io/badge/LOCATION-Iraq-0f172a?style=for-the-badge&labelColor=111827" alt="Location" />
+  <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-0f172a?style=for-the-badge&labelColor=111827" alt="Collaboration" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/abaalfadhel">
-    <img src="https://img.shields.io/badge/GitHub-abaalfadhel-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Practical%20Innovation-0EA5E9?style=for-the-badge" alt="Practical innovation" />
-  <img src="https://img.shields.io/badge/Location-Iraq-16A34A?style=for-the-badge" alt="Iraq" />
-</p>
-
-<p align="center">
-  <strong>Turning ideas into useful digital solutions.</strong><br />
-  <sub>تحويل الأفكار إلى حلول رقمية عملية ذات أثر حقيقي.</sub>
-</p>
+</div>
 
 ---
 
-## 👋 About Me | نبذة عني
+## `01` — About Me | نبذة عني
 
-I'm a software developer and technology researcher interested in designing and building practical digital products. My work brings together software engineering, web applications, automation, artificial intelligence, and research-driven problem solving.
+**EN** — I'm a software developer and technology researcher focused on designing useful digital products. My interests span software engineering, web applications, automation, artificial intelligence, and research-driven problem solving. I aim to turn real-world needs into reliable, accessible, and maintainable technology.
 
-I focus on creating technology that is useful, accessible, maintainable, and responsive to real-world needs—particularly across Iraq and the Arab region.
+**AR** — أنا مطوّر برمجيات وباحث تقني، أهتم بتصميم منتجات رقمية نافعة. تشمل اهتماماتي هندسة البرمجيات وتطبيقات الويب والأتمتة والذكاء الاصطناعي والبحث التقني. أعمل على تحويل الاحتياجات الواقعية إلى حلول تقنية موثوقة وسهلة الاستخدام وقابلة للتطوير.
 
-أنا مطوّر برمجيات وباحث تقني، أهتم بتصميم وبناء منتجات رقمية عملية. أجمع في عملي بين هندسة البرمجيات وتطوير تطبيقات الويب والأتمتة والذكاء الاصطناعي والبحث المنهجي عن الحلول.
+## `02` — Focus Areas | مجالات العمل
 
-أركّز على تطوير تقنيات نافعة وسهلة الاستخدام وقابلة للصيانة، وتستجيب لاحتياجات الناس الواقعية، مع اهتمام خاص بالعراق والمنطقة العربية.
+| Area | المجال |
+|---|---|
+| Software Engineering | هندسة البرمجيات |
+| Web Applications & PWA | تطبيقات الويب والمنصات |
+| Telegram Bots & Automation | بوتات تيليجرام والأتمتة |
+| Artificial Intelligence | الذكاء الاصطناعي |
+| Digital Products & Tools | المنتجات والأدوات الرقمية |
+| Technology Research | البحث التقني |
 
-## 🧭 Areas of Interest | مجالات الاهتمام
+## `03` — Tech Stack | التقنيات
 
-- **Software Engineering:** Building structured, maintainable applications.
-- **Web Development:** Developing responsive websites and digital platforms.
-- **Python & TypeScript:** Building software, tools, and application features.
-- **Telegram Automation:** Designing bots and workflow automation.
-- **Artificial Intelligence:** Exploring practical AI-powered applications and tools.
-- **Digital Solutions:** Turning community needs into usable technology.
-- **Technology Research:** Studying tools, architectures, and emerging technologies.
-
-- **هندسة البرمجيات:** بناء تطبيقات منظمة وقابلة للتطوير والصيانة.
-- **تطوير الويب:** إنشاء مواقع ومنصات رقمية متجاوبة.
-- **بايثون وتايب سكريبت:** تطوير البرمجيات والأدوات وخصائص التطبيقات.
-- **أتمتة تيليجرام:** تصميم البوتات وأتمتة الإجراءات.
-- **الذكاء الاصطناعي:** استكشاف تطبيقات وأدوات الذكاء الاصطناعي العملية.
-- **الحلول الرقمية:** تحويل احتياجات المجتمع إلى أدوات تقنية قابلة للاستخدام.
-- **البحث التقني:** دراسة الأدوات والبنى البرمجية والتقنيات الحديثة.
-
-## 🛠️ Technologies & Tools | التقنيات والأدوات
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,git,github,vscode&perline=8" alt="Technology stack icons" />
 </p>
 
-<p>
-  <sub>Technologies shown here reflect the languages and tools represented in my current public work. This list will evolve as projects are published.</sub><br />
-  <sub>تعكس التقنيات أعلاه اللغات والأدوات الظاهرة في أعمالي العامة الحالية، وسيتم تحديثها مع نشر مشاريع جديدة.</sub>
+<p align="center">
+  <sub>Current public work and areas of active learning · التقنيات الظاهرة في أعمالي واهتماماتي الحالية</sub>
 </p>
 
-## 🚀 Selected Projects | مشاريع مختارة
+## `04` — Featured Work | مشاريع مختارة
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Salati](https://github.com/abaalfadhel/salati)
-A TypeScript project focused on a digital prayer experience and helping users organize and track their worship routines.
 
-مشروع مبني باستخدام TypeScript يركّز على تجربة رقمية للصلاة ومساعدة المستخدم على تنظيم ومتابعة عباداته.
+Prayer-focused digital application built with TypeScript.
+
+تطبيق رقمي يركّز على تنظيم ومتابعة شؤون الصلاة.
+
+</td>
+<td width="50%" valign="top">
 
 ### [My Portfolio](https://github.com/abaalfadhel/my-portfolio)
-My personal portfolio project for presenting my work, projects, and professional profile.
 
-مشروع موقعي الشخصي لعرض أعمالي ومشاريعي وهويتي المهنية.
+Personal portfolio website and professional showcase.
+
+موقعي الشخصي لعرض الأعمال والهوية المهنية.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### [TRELLIS.2](https://github.com/abaalfadhel/TRELLIS.2)
-A public fork of Microsoft's TRELLIS.2 repository, related to structured latent representations for 3D generation. Listed here as an explored open-source project, not as an original project authored by me.
 
-نسخة متفرعة (Fork) من مستودع Microsoft TRELLIS.2، المرتبط بالتمثيلات الكامنة المنظمة لتوليد المجسمات ثلاثية الأبعاد. أدرجه هنا بوصفه مشروعًا مفتوح المصدر أستكشفه، وليس مشروعًا أصليًا من تأليفي.
+An explored fork of Microsoft's open-source 3D-generation project. This is an upstream fork, not an original project authored by me.
 
-## 🔬 What I'm Building | ما أعمل على تطويره
+نسخة Fork من مشروع Microsoft مفتوح المصدر لتوليد المجسمات ثلاثية الأبعاد، وليست مشروعاً أصلياً من تأليفي.
 
-I work on practical software concepts, including digital platforms, Telegram bots, automation tools, and applications designed around real user needs. Project repositories will be linked here as they become ready for public release.
+</td>
+</tr>
+</table>
 
-أعمل على أفكار ومشاريع برمجية عملية، تشمل المنصات الرقمية وبوتات تيليجرام وأدوات الأتمتة والتطبيقات المصممة وفق احتياجات المستخدمين. سأضيف روابط المستودعات هنا عند تجهيزها للنشر العام.
+## `05` — GitHub Analytics | إحصاءات GitHub
 
-## 🤝 Collaboration | التعاون
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abaalfadhel&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaalfadhel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages" />
+</div>
 
-I'm interested in meaningful collaboration on:
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=abaalfadhel&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+</div>
 
-- Useful open-source software.
-- Web applications and digital platforms.
-- Python and TypeScript projects.
-- Automation and AI-assisted tools.
-- Technology initiatives with practical community impact.
-
-أرحّب بالتعاون في المشاريع مفتوحة المصدر، وتطبيقات الويب، ومشاريع Python وTypeScript، وأدوات الأتمتة والذكاء الاصطناعي، والمبادرات التقنية ذات الأثر المجتمعي.
-
-## 📫 Connect | التواصل
-
-- GitHub: [@abaalfadhel](https://github.com/abaalfadhel)
+## `06` — Contribution Activity | نشاط المساهمات
 
 <p align="center">
-  <strong>Build with purpose. Solve real problems. Keep learning.</strong><br />
-  <sub>ابنِ بهدف، عالج مشكلات حقيقية، واستمر في التعلّم.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abaalfadhel/abaalfadhel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abaalfadhel/abaalfadhel/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/abaalfadhel/abaalfadhel/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
+## `07` — Collaboration | التعاون
+
+I'm interested in practical open-source projects, web platforms, Python and TypeScript development, automation, and AI-assisted tools that solve meaningful problems.
+
+أرحّب بالتعاون في المشاريع مفتوحة المصدر والمنصات الرقمية وتطوير Python وTypeScript والأتمتة وأدوات الذكاء الاصطناعي التي تعالج مشكلات حقيقية.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=100&section=footer" alt="" width="100%" />
+  <a href="https://github.com/abaalfadhel">
+    <img src="https://img.shields.io/badge/Explore_my_repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
 </p>
+
+<div align="center">
+
+**Build with purpose. Solve real problems. Keep learning.**
+
+**ابنِ بهدف، عالج مشكلات حقيقية، واستمر في التعلّم.**
+
+</div>
